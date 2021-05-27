@@ -1,3 +1,4 @@
+Max no transactions per account =10
 Account no  Account  name
 SBI         Mahi
 Pnb         Ravi
